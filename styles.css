@@ -40,12 +40,16 @@ h1{
 .body-right{
     padding: 5px;
 }
-input{
-    border-bottom: 2px solid grey;
-    border: none;
-    outline: none;
+input{ 
+    width: 100%; 
+    padding: 5px; 
+    margin: 3px 0; 
+    border: 0; 
+    border-bottom: 1px solid #BDBDBD;
+    box-sizing: border-box;
 }
-.postcard-footer{
+
+    .postcard-footer{
     text-align: center;
     
 }
