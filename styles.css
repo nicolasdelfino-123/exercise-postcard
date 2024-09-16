@@ -58,3 +58,8 @@ input{
     padding: 5px;
     margin-top: 40px;
 }
+
+* {
+    border: 1px dashed red;
+    min-height: 10px;
+}
